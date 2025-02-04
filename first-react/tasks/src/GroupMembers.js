@@ -1,7 +1,10 @@
 import React from 'react';
 
 const GroupMembers = () => {
-  const members = ['Manuel', 'Biruk', 'Rakeb', 'Naod'];
+  const members = [
+    'Manuel', 'Menata','Robel',
+    'Rakeb','Fkremariam','fentahun',
+    'Natinael','Abdurazak','Abdurahman','Eden'];
 
   return (
     <div>
